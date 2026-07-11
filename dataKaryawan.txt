@@ -1,0 +1,4 @@
+EMP001|Budi Santoso|Pria|23|082174965175|Depok|Kasir|Pagi|1500000
+EMP002|Intan Permata|Wanita|20|081276912128|Jakarta|Waitress|Pagi|1000000
+EMP003|Dimas Saputra|Pria|22|082159800971|Bandung|Dishwasher|Pagi|900000
+EMP004|Arif Hidayat|Pria|24|085828350865|Semarang|Kitchen Helper|Pagi|800000

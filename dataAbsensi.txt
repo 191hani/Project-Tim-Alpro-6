@@ -1,0 +1,4 @@
+EMP001|Budi Santoso|01/07/2006|Pagi|Hadir
+EMP002|Intan Permata|01/07/2026|Pagi|Hadir
+EMP003|Dimas Saputra|01/07/2026|Pagi|Hadir
+EMP004|Arif Hidayat|01/07/2026|Pagi|Hadir

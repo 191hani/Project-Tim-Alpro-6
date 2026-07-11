@@ -1,0 +1,4 @@
+EMP001|Budi Santoso|08/07/2026|Bonus Kinerja|800000
+EMP002|Intan Permata|12/07/2026|Bonus Target|950000
+EMP003|Dimas Saputra|13/07/2026|Bonus Kinerja|850000
+EMP004|Arif Hidayat|14/07/2026|Bonus Lembur|700000
